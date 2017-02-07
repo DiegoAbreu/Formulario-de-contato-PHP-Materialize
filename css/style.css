@@ -1,0 +1,64 @@
+/* Projeto site/app UniBem - 2016
+Autor: Diego de Souza Abreu
+Arquivo: style.css
+Observações: folha de estilo para personalizações adicionais */
+
+
+
+
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    
+     
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.texto-lista {
+    color: white;
+    
+}
+
+.social:hover {
+     -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+ .social {
+     -webkit-transform: scale(0.8);
+     /* Browser Variations: */
+     
+     -moz-transform: scale(0.8);
+     -o-transform: scale(0.8);
+     -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+     -o-transition-duration: 0.5s;
+ }
+
+.parallax-container {
+    max-height: 400px;}
+
+.page-footer {
+    background-color: #fec826;
+}
+
