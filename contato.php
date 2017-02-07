@@ -24,7 +24,7 @@ Arquivo: conecta.php -->
     
 <header></header>
 
-<title>Contato GHZ</title>
+<title>Contato</title>
 
 
 <body class="black">
