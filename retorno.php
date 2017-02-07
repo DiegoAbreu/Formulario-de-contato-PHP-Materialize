@@ -1,4 +1,4 @@
-<!-- Formulário de contato GHZ - 2017
+<!-- Formulário de contato - 2017
 Autor: Diego de Souza Abreu
 Arquivo: retorno.php -->
 <!DOCTYPE html>
